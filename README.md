@@ -1,6 +1,8 @@
 # griz99.github.io
-Webapp for finding the Difficulty level of a question
+Webapp for finding the Difficulty level of a question.
+
 Steps to be followed
+
 Two ways to run the code
 1.Download the code fully and run the 'index.html' file and upload the 'Data.xlsx' file.
 or
