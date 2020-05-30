@@ -2,6 +2,7 @@
 Webapp for finding the Difficulty level of a question.
 
 Steps to be followed
+
 Two ways to run the code
 
 1.Download the code fully and run the 'index.html' file and upload the 'Data.xlsx' file.
@@ -13,6 +14,6 @@ or
 
 'Data.xlsx'-file contain the input get from the students attended the test.
 
-'Document.docx'-file contain Formula,explanation,Proof for the Algorithm
+'Document.docx'-file contain Formula,explanation,Proof for the Algorithm.
 
 For any Queries mail to:begowtham.cse@gmail.com
