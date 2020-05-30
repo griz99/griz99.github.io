@@ -1,6 +1,8 @@
 # griz99.github.io
 Webapp for finding the Difficulty level of a question.
 
+It runs only in online.
+
 Steps to be followed
 
 Two ways to run the code
