@@ -12,3 +12,7 @@ or
 2.Download the 'Data.xlsx' file and upload it.
 
 'Data.xlsx'-file contain the input get from the students attended the test.
+
+'Document.docx'-file contain Formula,explanation,Proof for the Algorithm
+
+For any Queries mail to:begowtham.cse@gmail.com
