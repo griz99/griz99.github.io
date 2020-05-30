@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Difficulty Level Analysis-Examly</title>
+
+    <link rel="stylesheet" type="text/css" href="index.css">
+
+    <script src="index.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>  <!--for Pie Chart-->
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.13.5/xlsx.full.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.13.5/jszip.js"></script>
+  
+    <link href="https://fonts.googleapis.com/css2?family=Slabo+27px&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="header">
+        <img src="logowithname.png" alt="logo" class="responsiveimg" >
+        <div class="header-right">
+            <h1 class="glow">Difficulty Level Analysis </h1>
+        </div> 
+    </div>
+
+
+	<div>
+        <input type="file" id="fileUpload" placeholder="Choose Excel File..." />
+        <input  class="button" type="button" id="upload" value="Analyze " onclick="Upload()" />
+        
+    </div>
+<div class="result">
+    <div class="tab">
+        <h3 id="h1"></h3>
+        <div id="dvExcel">  </div>
+    </div>
+    <div class="pie">
+        <h3 id="h2"></h3>
+        <div id="piechart"></div>
+    </div>
+</div>
+    
+</body>
+</html>
