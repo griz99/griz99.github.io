@@ -9,7 +9,7 @@ Two ways to run the code
 
 or
 
-1.Paste this url 'griz99.github.io' in the browser.
+1.Paste this url 'https://griz99.github.io/' in the browser.
 2.Download the 'Data.xlsx' file and upload it.
 
 'Data.xlsx'-file contain the input get from the students attended the test.
